@@ -1,0 +1,3 @@
+C:/Users/erolo/OneDrive/Masaüstü/OrtalamaHesaplama/cmake-build-debug/CMakeFiles/OrtalamaHesaplama.dir
+C:/Users/erolo/OneDrive/Masaüstü/OrtalamaHesaplama/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/erolo/OneDrive/Masaüstü/OrtalamaHesaplama/cmake-build-debug/CMakeFiles/rebuild_cache.dir
